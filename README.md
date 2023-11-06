@@ -27,6 +27,7 @@ The directory structure is as follows:
 
 - `BRFSSProject/`: Contains the final project.
 - `codebook20_llcp-v2-508.pdf/`: Contains the complete documentation of the project.
+- `BRFSSProject DIapo.pdf/` : Contains the presentation.
 
 ## Authors
 
